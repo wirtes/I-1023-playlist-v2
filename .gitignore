@@ -1,4 +1,6 @@
 config.py
 __pychache__/
 *.pyc
+cron_log.txt
+last_tweet.txt
 
