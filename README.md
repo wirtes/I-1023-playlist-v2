@@ -6,3 +6,7 @@ When the song changes, it will tweet it the Twitter account @oaplaylist, https:/
 
 ## Configuration
 rename "config_sample.py" to "config.py" and add your Twitter account information to post to your Twitter account.
+
+## Running the script
+
+Setup a cron job to run the script every minute.
