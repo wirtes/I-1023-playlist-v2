@@ -2,3 +2,4 @@ config.py
 __pychache__/
 *.pyc
 cron_log.txt
+album_art_temp_file.png
