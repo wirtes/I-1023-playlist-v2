@@ -10,6 +10,8 @@ import config
 last_tweet_file_path = "/home/pi/python_scripts/I1023-playlist-v2/last_tweet.txt"
 
 def post_tweet_and_art(tweet, cover_image):
+    """Post a tweet with art to Twitter"""
+    # Based on the excellent series of articles here: https://www.mattcrampton.com/blog/step_by_step_tutorial_to_post_to_twitter_using_python/
     twitter_auth_keys = { 
         "consumer_key"        : config.CONSUMER_KEY,
         "consumer_secret"     : config.CONSUMER_SECRET,
