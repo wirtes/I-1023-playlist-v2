@@ -8,7 +8,7 @@ This script will poll the playlist API for radio station Indie 102.3 in Colorado
 When the song changes, it will tweet it the Twitter account @oaplaylist, https://twitter.com/oaplaylist
 
 ## Configuration
-rename "config_sample.py" to "config.py" and add your Twitter account information to post to your Twitter account. Also specify the location on your server for some working files.
+Eename "config_sample.py" to "config.py" and add your Twitter account information to post to your Twitter account. Also specify the location on your server for some working files.
 
 ## Running the script
 
