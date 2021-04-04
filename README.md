@@ -1,7 +1,7 @@
 # I-1023-playlist-v2
 Script to determine the current song playing on Colorado radio station Indie 102.3 and tweet to @oaplaylist account.
 
-'''This is completely unoffical and in no way sanctioned by Colorado Public Radio or Indie 102.3. I'm just piggybacking on their webpage APIs. (I hope they don't mind.)''' They're a good station full of great people. So you should listen to them here: https://www.cpr.org/indie/
+**This is completely unoffical and in no way sanctioned by Colorado Public Radio or Indie 102.3. I'm just piggybacking on their webpage APIs.** (I hope they don't mind.) They're a good station full of great people. So you should listen to them here: https://www.cpr.org/indie/
 
 This script will poll the playlist API for radio station Indie 102.3 in Colorado, https://www.cpr.org/indie/ every 15 seconds to get the latest song playing. 
 
