@@ -19,4 +19,4 @@ This script is written for Python 3.x.
 
 It relies on the following modules: coverpy, requests, tweepy, datetime, time, sys, pillow.
 
-updated.
+
