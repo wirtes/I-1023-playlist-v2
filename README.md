@@ -20,6 +20,6 @@ This script is written for Python 3.x.
 It relies on the following modules: coverpy, requests, tweepy, datetime, time, sys, pillow.
 
 ## April Fools' Day Easter Egg
-This script also checks to see if the date is 1-Apr, and it gives a hook to modify the tweet accordingly. Currently, it adds the text " & GWAR" to the band name and superimposes and image of GWAR on top of the album cover. Some people find this humorous.
+This script also checks to see if the date is 1-Apr, and it gives a hook to modify the tweet accordingly. Currently, it adds the text " & GWAR" to the band name and superimposes and image of GWAR on top of the album cover. Some people find this humorous. Samples can be found here: https://twitter.com/search?q=from%3Aoaplaylist%20since%3A2021-04-01%20until%3A2021-04-02&src=typed_query&f=live
 
-![cover](./GWAR-me/GWAR-me/gogos.png?raw=true)
+![gogos](https://user-images.githubusercontent.com/11652957/134274102-d402207e-e924-48de-9905-81c049cf9f17.png)
